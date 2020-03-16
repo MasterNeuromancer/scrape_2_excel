@@ -11,6 +11,8 @@ autopep8 = "*"
 requests = "*"
 beautifulsoup4 = "*"
 lxml = "*"
+pandas = "*"
+openpyxl = "*"
 
 [requires]
 python_version = "3.8"
